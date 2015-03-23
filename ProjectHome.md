@@ -1,0 +1,3 @@
+AdThwart has become Adblock Plus for Google Chrome. It still blocks ads on the web. You can [install it](https://chrome.google.com/webstore/detail/cfhdojbkjhnklbpkdaibdccddilifddb) at the Chrome Web Store.
+
+This is no longer the place to report bugs. Please use the [official forums](https://adblockplus.org/forum/viewforum.php?f=10) instead. The source code for the old AdThwart is available [here](http://github.com/ttjoseph/adthwart), and the source code for the current Adblock Plus for Chrome is available [here](https://hg.adblockplus.org/adblockpluschrome).
